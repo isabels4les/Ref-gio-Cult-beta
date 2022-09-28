@@ -1,0 +1,59 @@
+body{
+ background-color: black;
+ }
+ h1 {
+    color: blueviolet;
+ }
+ h2 {
+    color: blueviolet;
+ }
+ 
+ .barra
+ {
+    color: gray;
+ }
+
+ .cor1
+ {
+    color: antiquewhite;
+ }
+
+ .btn
+ {
+    background-color: indigo;
+}
+ .descricao1
+ {
+    color: antiquewhite;
+   }
+   .autor1
+   {
+      color: antiquewhite;
+   }
+
+   .autor2
+   {
+      color: antiquewhite;
+   }
+
+   .descricao2
+   {
+      color: antiquewhite;
+     }
+     
+     .descricao3
+     {
+        color: antiquewhite;
+       }
+       .autor3
+       {
+          color: antiquewhite;
+       }
+       .descricao4
+       {
+          color: antiquewhite;
+         }
+         .autor4
+         {
+            color: antiquewhite;
+         }
